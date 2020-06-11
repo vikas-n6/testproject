@@ -31,6 +31,7 @@ public class StudentApp {
 	}
 	
 	private static void displayMenu(){
+		System.out.println("Menu");
 		System.out.println("1.Save Student info.");
 		System.out.println("2.View Student info.");
 		System.out.println("3.Exit");
